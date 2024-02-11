@@ -7,7 +7,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Controls](#controls)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,8 +16,22 @@
 2. Clone this repository:
 
 
-
 ## Usage
 
 Run the `snake_game.py` file using Python:
+
+
+## Controls
+
+- Use the arrow keys to control the movement of the snake.
+- Press 'Q' to quit the game.
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
