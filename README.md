@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [Controls](#controls)
 - [Contributing](#contributing)
+- [To Do](#to-do)
 - [License](#license)
 
 ## Installation
@@ -25,6 +26,12 @@ Run the `snake_game.py` file using Python:
 
 - Use the arrow keys to control the movement of the snake.
 - Press 'Q' to quit the game.
+
+
+## To Do
+
+- Add high score functionality.
+- Implement different levels of difficulty.
 
 
 ## Contributing
